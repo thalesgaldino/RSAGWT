@@ -1,0 +1,91 @@
+
+.home-page {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.img-perfil{
+	width: 70px; height: 90px; float: left;
+}
+
+.img-perfil2{
+	float: left;
+}
+
+.post-title h1, .post-title h2, .post-title h3 {margin-bottom: 0;}
+
+.post-body {font-size: 1.1em;}
+
+.large {font-size: 1.15em;}
+
+.content-separator, .archive-separator {
+	background: #D5D5D5;
+	clear: both;
+	color: #FFE;
+	display: block;
+	font-size: 0;
+	line-height: 0;
+	height: 1px;	
+}
+.content-separator {margin: 20px 0;}
+
+.clear,.clearer {clear: both;}
+.clearer {
+	display: block;
+	font-size: 0;
+	line-height: 0;
+	height: 0;
+}
+
+#site-title {
+	font: normal 3.6em serif;
+	border-bottom: 1px solid #CCC;
+	padding-bottom: 24px;
+}
+#site-title span {color: #999;}
+#site-title a {
+	color: #000;
+	text-decoration: none;
+}
+
+div.feed-box {
+	float: left;
+	margin: 5px;
+	padding: 5px;
+	/* border: 1px solid black; */
+	width: 100px;
+	height: 110px;
+	text-align: center;
+}
+
+div.amigos-box {
+	float: left;
+	margin: 5px;
+	padding: 5px;
+	/* border: 1px solid black; */
+	width: 70px;
+	height: 60px;
+	text-align: center;
+}
+
+img.left{
+	float:left; 
+	margin: 0 1.5em 1em 0;
+}
+
+img.bordered{
+	border: 1px solid #DDDDDD;
+	padding: 3px;
+}
+
+.perfilview h1 {
+font-size: 1.5em;
+}
+.perfilview hr {
+border-bottom: 0.5px solid #000;
+}
+
+p{
+ margin-bottom: 1em;
+ border: 3 none;
+}

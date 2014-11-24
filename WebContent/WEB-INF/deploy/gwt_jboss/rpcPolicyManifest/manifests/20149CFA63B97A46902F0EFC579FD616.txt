@@ -1,0 +1,2 @@
+serviceClass: org.jboss.tools.gwt.client.rpc.GWTService
+path: 20FBC5D0E25CA4161295E986217F1A60.gwt.rpc

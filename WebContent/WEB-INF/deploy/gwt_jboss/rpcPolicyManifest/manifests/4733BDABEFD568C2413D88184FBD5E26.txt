@@ -1,0 +1,2 @@
+serviceClass: org.jboss.tools.gwt.client.rpc.UsuarioAcademicoService
+path: 430B9DBBFED42BD832E59CCA6ABB7EE0.gwt.rpc
